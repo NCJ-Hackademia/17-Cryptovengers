@@ -14,7 +14,7 @@ CORS(app)
 GOOGLE_SAFE_BROWSING_API_KEY = "AIzaSyAJfB3obk9skPUodobr6JR5Kn4NpJQ5_VM"
 
 # List of well-known domains to whitelist
-WHITELISTED_DOMAINS = {"google.com", "amazon.com", "wikipedia.org", "microsoft.com", "apple.com"}
+WHITELISTED_DOMAINS = {}
 
 # Decode URL if encoded
 def decode_url(url):

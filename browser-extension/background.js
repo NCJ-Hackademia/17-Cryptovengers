@@ -7,7 +7,7 @@ function analyzeURL(url, tabId) {
   // Show notification that the link is being analyzed
   chrome.notifications.create({
     type: "basic",
-    iconUrl: "icon48.png",
+    iconUrl: "C:\Users\UMANG JAISWAL N\Downloads\xyztrynew\link-analyser\browser-extension\Gemini_Generated_Image_e81cmxe81cmxe81c.png",
     title: "🔍 Link Analyzer",
     message: `Analyzing: ${url}`,
   });
